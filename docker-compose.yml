@@ -1,13 +1,13 @@
 # file: docker-compose.yml
 #        author: Thus0
-# last modified: 2022-01-30 01:33
+# last modified: 2022-01-30 01:35
 
 version: "3.9"
 
 services:
 
   #
-  # router-bts
+  # router-mqtt
   #
   router-mqtt:
     build: router
